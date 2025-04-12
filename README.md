@@ -2,6 +2,8 @@
 
 A simple app to shorten long URLs into easy-to-share, manageable links.
 
+**Demo** : [https://make-tiny.vercel.app/maketiny](https://make-tiny.vercel.app/maketiny)
+
 ## 🛠️ Tech Stack
 
 - **Next.js** – React framework used to build the frontend and backend, providing server-side rendering for better performance.
