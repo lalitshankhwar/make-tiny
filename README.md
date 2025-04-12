@@ -1,3 +1,14 @@
+## Introduction
+
+A simple app to shorten long URLs into easy-to-share, manageable links.
+
+## 🛠️ Tech Stack
+
+- **Next.js** – React framework used to build the frontend and backend, providing server-side rendering for better performance.
+- **MongoDB** – NoSQL database used to store original and shortened URLs.
+- **Vercel** – Hosting platform for deploying Next.js applications with zero configuration.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
